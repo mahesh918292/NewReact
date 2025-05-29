@@ -11,7 +11,7 @@ const App1=(props)=>{
 const App=()=>{
 
   return <>
-  <p> New  </p>
+  <p> New Integration added to aws </p>
   <Provider store={store}>
   <Counter />
   </Provider>
