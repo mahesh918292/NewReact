@@ -11,7 +11,7 @@ const App1=(props)=>{
 const App=()=>{
 
   return <>
-  <p> Hello CI/CD </p>
+  <p> Hello CI/CD-NEW </p>
   <Provider store={store}>
   <Counter />
   </Provider>
