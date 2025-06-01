@@ -11,7 +11,7 @@ const App1=(props)=>{
 const App=()=>{
 
   return <>
-  <p> Hello CI/CD-NEW2 </p>
+  <p> Hello CI/CD-NEW1 PIPELINE </p>
   <Provider store={store}>
   <Counter />
   </Provider>
